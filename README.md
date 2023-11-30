@@ -7,7 +7,7 @@ I'm passionate about coding and foreign languages. As a dedicated frontend devel
 <p align="center"><img src="./assets/images/background.png" alt="background_logo" width="100%" height="85%"/></p>
 
 ---
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
  <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
  <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
