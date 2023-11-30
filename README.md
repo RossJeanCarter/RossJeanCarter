@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/images/background.png" alt="background_logo" width="70%" height="70%"/></p>
+<p align="center"><img src="./assets/images/background.png" alt="background_logo" width="85%" height="85%"/></p>
 <h1 align="center">Hello, I'm Ross</h1>
 <h3 align="center">A frontend developer from the planet Earth</h3>
 
