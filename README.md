@@ -1,4 +1,4 @@
-<img src="./assets/images/background.jpg" alt="background_logo" width="100%" height="200px"/>
+<img src="./assets/images/background.jpg" alt="background_logo" width="70%" height="200px"/>
 <h1 align="center">Hello, I'm Ross</h1>
 <h3 align="center">A frontend developer from the planet Earth</h3>
 
