@@ -4,6 +4,8 @@
 
 I'm passionate about coding and foreign languages. As a dedicated frontend developer, I thrive on turning ideas into interactive and visually appealing web experiences.
 
+<p align="center"><img src="./assets/images/background.png" alt="background_logo" width="100%" height="85%"/></p>
+
 ---
 ### 🧰 Languages and Tools:
 
@@ -22,8 +24,8 @@ I'm passionate about coding and foreign languages. As a dedicated frontend devel
 ---
 ### 📈 Statistics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rossjeancarter&show_icons=true&theme=gruvbox)
-![Ross' GitHub stats](https://github-readme-stats.vercel.app/api?username=rossjeancarter&show_icons=true&theme=gruvbox)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rossjeancarter&show_icons=true)
+![Ross' GitHub stats](https://github-readme-stats.vercel.app/api?username=rossjeancarter&show_icons=true)
  
 
 
