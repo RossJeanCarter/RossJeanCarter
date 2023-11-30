@@ -1,4 +1,4 @@
-# 🏖 Ross Jean Carter
+# Ross Jean Carter
 
 **`frontend developer`**
 
