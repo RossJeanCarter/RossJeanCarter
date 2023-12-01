@@ -24,8 +24,8 @@ I'm passionate about coding and foreign languages. As a dedicated frontend devel
 ---
 ### 📈 Statistics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rossjeancarter&show_icons=true)
-![Ross' GitHub stats](https://github-readme-stats.vercel.app/api?username=rossjeancarter&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rossjeancarter&show_icons=true&theme=tokyonight)
+![Ross' GitHub stats](https://github-readme-stats.vercel.app/api?username=rossjeancarter&show_icons=true&theme=tokyonight)
  
 
 
