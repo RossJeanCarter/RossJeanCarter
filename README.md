@@ -2,7 +2,7 @@
 
 **`frontend developer`**
 
-Hello and welcome to my gitHub page. I'm passionate about coding and foreign languages. As a dedicated frontend developer, I thrive on turning ideas into interactive and visually appealing web experiences.
+Hello and welcome to my GitHub page. I'm passionate about coding and foreign languages. As a dedicated frontend developer, I thrive on turning ideas into interactive and visually appealing web experiences.
 
 <p align="center"><img src="./assets/images/background.png" alt="background_logo" width="100%" height="85%"/></p>
 
